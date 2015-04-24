@@ -2,7 +2,7 @@
 Contributors: masikonis
 Tags: geolocator, ip based location, ip location, user country, visitor location latitude, longitude
 Requires at least: 4.1.1
-Tested up to: 4.1.1
+Tested up to: 4.2
 Stable tag: 1.0
 License: GPLv2 or later
 
